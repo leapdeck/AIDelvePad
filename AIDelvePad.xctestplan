@@ -1,0 +1,37 @@
+{
+  "configurations" : [
+    {
+      "id" : "C813275E-3CCE-49E0-8846-961A140F1F9E",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:AIDelvePad.xcodeproj",
+      "identifier" : "461D5F6A2D84FD1E006903DA",
+      "name" : "AIDelvePad"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:AIDelvePad.xcodeproj",
+        "identifier" : "461D5F7A2D84FD24006903DA",
+        "name" : "AIDelvePadTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:AIDelvePad.xcodeproj",
+        "identifier" : "461D5F842D84FD24006903DA",
+        "name" : "AIDelvePadUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
