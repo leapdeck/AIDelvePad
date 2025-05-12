@@ -2,7 +2,7 @@
 Jump into the world of LLMs and A.I. with this interactive glossary and resource tracker! Whether you're new to LLM's, A.I. or brushing up on advanced concepts, A.I. DelvePad  helps you stay informed. Explore definitions, save resources, and share your favorites with classmates or friends. Start your A.I. journey today!
 
 <p align="center">
-  <img alt="AIDelvePad" title="AIDelvePad" src="screenshots/AIDelvePadScroll1.gif" width=300>
+  <img alt="AIDelvePad" title="AIDelvePad" src="screenshots/DelvePadScroll1.gif" width=300>
 </p>
 
 ## 🚀 Key Features
@@ -26,3 +26,9 @@ Download on the App Store
 A.I. DelvePad is under the MIT license. See the accompanying [LICENSE](LICENSE) for more information.
 
 ## 🤝 Contributing
+
+We welcome 👩🏾‍💻👨🏾‍💻 additions! If you’d like to help improve or expand this project, feel free to open an issue or submit a pull request.
+
+## 📬 Contact
+
+For feedback, questions, or collaboration opportunities, feel free to message for assistance.
