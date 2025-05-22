@@ -35,7 +35,7 @@ Cursor A.I. coding tool :
 [Cursor](https://www.cursor.com)
 
 Windsurf A.I. coding tool : 
-[Windurf](https://windsurf.com)
+[Windsurf](https://windsurf.com)
 
 Then Xcode will let you side-load to your iPhone. When you’ve forked the repo to make your own app, you can do a yearly subscription as an Apple Developer to publish to the Appstore. 
 
