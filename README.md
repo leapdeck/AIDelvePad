@@ -11,7 +11,7 @@ Jump into the world of LLMs and A.I. with this interactive glossary and resource
 Access a glossary of up-to-date terms and definitions related to Large Language Models and artificial intelligence.
 
 📂 **Build Your Resource List**  
-Keep track of tutorials, tools, and documentation all in one place with personalized resource saving.
+Pick your favorite A.I. tutorial vids all in one place with personalized resource saving. A range of videos on A.I. listed, ranging from LLM training to MCP specs. 
 
 ⭐ **Save & Share Favorites**  
 Mark your go-to resources and share them with classmates or friends.
